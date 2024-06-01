@@ -1,4 +1,4 @@
-<?php 
+<?php
 /**
  * Footer Template
  * 
@@ -8,6 +8,10 @@
 ?>
 
 <footer>Footer</footer>
-<?php wp_footer();?>
+<?php wp_footer(); ?>
+
+</div>
+</div>
 </body>
+
 </html>

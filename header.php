@@ -19,4 +19,6 @@
 </head>
 
 <body>
-    <header>Header</header>
+    <header>
+        <?php get_template_part('template-parts/header/nav'); ?>
+    </header>
